@@ -9,8 +9,5 @@ public class Main {
 	// write your code here
         //Ruslan writes here something
         // and here
- 	//first comment
-        //second comment
-        //third comment
     }
 }

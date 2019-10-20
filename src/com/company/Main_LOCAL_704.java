@@ -7,9 +7,7 @@ public class Main {
         for (int i = 0; i < 5; i++)
         System.out.println("Sasha");
 	// write your code here
-        //Ruslan writes here something
-        // and here
- 	//first comment
+        //first comment
         //second comment
         //third comment
     }
