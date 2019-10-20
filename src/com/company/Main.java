@@ -25,6 +25,8 @@ public class Main {
         //sasha5
         //ruslan here
         //and here sasha
+        //something here ruslan
+        //something here russ
 
     }
 }
